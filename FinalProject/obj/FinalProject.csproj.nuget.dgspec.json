@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Users\\Tony\\Desktop\\Assignments\\C#\\FinalProject\\FinalProject\\FinalProject.csproj": {}
+    "C:\\Users\\emmab\\Source\\Repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj": {}
   },
   "projects": {
-    "E:\\Users\\Tony\\Desktop\\Assignments\\C#\\FinalProject\\FinalProject\\FinalProject.csproj": {
+    "C:\\Users\\emmab\\Source\\Repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\Tony\\Desktop\\Assignments\\C#\\FinalProject\\FinalProject\\FinalProject.csproj",
+        "projectUniqueName": "C:\\Users\\emmab\\Source\\Repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj",
         "projectName": "FinalProject",
-        "projectPath": "E:\\Users\\Tony\\Desktop\\Assignments\\C#\\FinalProject\\FinalProject\\FinalProject.csproj",
-        "packagesPath": "C:\\Users\\turtl\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\Tony\\Desktop\\Assignments\\C#\\FinalProject\\FinalProject\\obj\\",
+        "projectPath": "C:\\Users\\emmab\\Source\\Repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj",
+        "packagesPath": "C:\\Users\\emmab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emmab\\Source\\Repos\\IT3045C-FinalProject-Group3\\FinalProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\turtl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\emmab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
