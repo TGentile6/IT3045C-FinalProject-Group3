@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\Tony\\Desktop\\Assignments\\C#\\FinalProject\\FinalProject\\FinalProject.csproj",
+      "projectUniqueName": "C:\\Users\\turtl\\source\\repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj",
       "projectName": "FinalProject",
-      "projectPath": "E:\\Users\\Tony\\Desktop\\Assignments\\C#\\FinalProject\\FinalProject\\FinalProject.csproj",
+      "projectPath": "C:\\Users\\turtl\\source\\repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj",
       "packagesPath": "C:\\Users\\turtl\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\Tony\\Desktop\\Assignments\\C#\\FinalProject\\FinalProject\\obj\\",
+      "outputPath": "C:\\Users\\turtl\\source\\repos\\IT3045C-FinalProject-Group3\\FinalProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\turtl\\AppData\\Roaming\\NuGet\\NuGet.Config",
