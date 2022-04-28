@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\turtl\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\turtl\\.nuget\\packages"
+      "C:\\Users\\emmab\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\emmab\\.nuget\\packages"
     ]
   }
 }
