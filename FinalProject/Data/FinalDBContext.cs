@@ -13,5 +13,9 @@ namespace FinalProject.Data
         public DbSet<InfoRequest> InfoTable { get; set; }
 
         public DbSet<FavoritesRequest> FavoritesTable { get; set; }
+
+        public DbSet<HistoryRequest> HistoryTable { get; set; }
+
+        public DbSet<MusicRequest> MusicTable { get; set; }
     }
 }
