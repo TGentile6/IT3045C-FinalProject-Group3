@@ -6572,19 +6572,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\emmab\\.nuget\\packages\\": {}
+    "C:\\Users\\turtl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emmab\\Source\\Repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj",
+      "projectUniqueName": "C:\\Users\\turtl\\source\\repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj",
       "projectName": "FinalProject",
-      "projectPath": "C:\\Users\\emmab\\Source\\Repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj",
-      "packagesPath": "C:\\Users\\emmab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emmab\\Source\\Repos\\IT3045C-FinalProject-Group3\\FinalProject\\obj\\",
+      "projectPath": "C:\\Users\\turtl\\source\\repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj",
+      "packagesPath": "C:\\Users\\turtl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\turtl\\source\\repos\\IT3045C-FinalProject-Group3\\FinalProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\emmab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\turtl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
