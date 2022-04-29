@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\turtl\\source\\repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj": {}
+    "C:\\Users\\Sheel Patel\\Source\\Repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\turtl\\source\\repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj": {
+    "C:\\Users\\Sheel Patel\\Source\\Repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\turtl\\source\\repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj",
+        "projectUniqueName": "C:\\Users\\Sheel Patel\\Source\\Repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj",
         "projectName": "FinalProject",
-        "projectPath": "C:\\Users\\turtl\\source\\repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj",
-        "packagesPath": "C:\\Users\\turtl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\turtl\\source\\repos\\IT3045C-FinalProject-Group3\\FinalProject\\obj\\",
+        "projectPath": "C:\\Users\\Sheel Patel\\Source\\Repos\\IT3045C-FinalProject-Group3\\FinalProject\\FinalProject.csproj",
+        "packagesPath": "C:\\Users\\Sheel Patel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sheel Patel\\Source\\Repos\\IT3045C-FinalProject-Group3\\FinalProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\turtl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sheel Patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,6 +77,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -85,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
